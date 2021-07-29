@@ -1,5 +1,5 @@
 baseurl = "/"
-canonifyURLs = false
+canonifyURLs = true
 disableAliases = true
 disableHugoGeneratorInject = true
 enableEmoji = true
@@ -43,6 +43,7 @@ noUgly = true
 rel  = "sitemap"
 
 [markup]
+  defaultMarkdownHandler = "blackfriday"
   [markup.goldmark]
     [markup.goldmark.extensions]
       linkify = false
@@ -64,6 +65,10 @@ rel  = "sitemap"
     noClasses = false
     style = "dracula"
     tabWidth = 4
+  [markup.blackFriday]
+    plainIDAnchors = true
+    hrefTargetBlank = true
+
 
 [sitemap]
   changefreq = "weekly"

@@ -4,10 +4,10 @@
   identifier = "recipe"
   url = "/paneer_butter_masala/recipe"
 
-[[main]]
-  name = "乳酪奶油馬薩拉"
-  url = "/paneer_butter_masala/recipe/about"
-  weight = 10
+#[[main]]
+#  name = "乳酪奶油馬薩拉"
+#  url = "/paneer_butter_masala/recipe/about"
+#  weight = 10
 
 #[[social]]
 #  name = "Twitter"

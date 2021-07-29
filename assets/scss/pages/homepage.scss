@@ -1,3 +1,23 @@
+body {
+  .logo {
+    display: inline-block;
+  }
+
+  .dark-logo {
+    display: none;
+  }
+}
+
+body.dark {
+  .logo {
+    display: none;
+  }
+
+  .dark-logo {
+    display: inline-block;
+  }
+}
+
 .homepage-sidebar-prefooter {
   text-align: center;
 
@@ -9,3 +29,15 @@
     }
   }
 }
+
+.homepage-sidebar-main {
+  .lead {
+    font-size: 1.125rem;
+  }
+
+  .hero {
+    max-width: 80%;
+    width: 300px;
+  }
+}
+
