@@ -1,0 +1,11 @@
+.homepage-sidebar-prefooter {
+  text-align: center;
+
+  img {
+    width: 60%;
+
+    @include media-breakpoint-down(sm) {
+      width: 100%;
+    }
+  }
+}
