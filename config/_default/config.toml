@@ -87,9 +87,10 @@ rel  = "sitemap"
   [[module.mounts]]
     source = "static"
     target = "static"
-  [[module.mounts]]
-    source = "node_modules/flexsearch"
-    target = "assets/js/vendor/flexsearch"
+# 搜尋功能暫時不開啟
+#  [[module.mounts]]
+#    source = "node_modules/flexsearch"
+#    target = "assets/js/vendor/flexsearch"
   [[module.mounts]]
     source = "node_modules/katex"
     target = "assets/js/vendor/katex"
