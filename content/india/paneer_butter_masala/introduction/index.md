@@ -1,5 +1,5 @@
 ---
-title: "Introduction"
+title: "乳酪奶油馬薩拉 पनीर बटर मसाला रेसिपी Paneer Butter Masala"
 description: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
@@ -9,10 +9,8 @@ menu:
   india:
     parent: "paneer_butter_masala"
 weight: 1
-toc: true
+toc: false
 ---
-## 乳酪奶油馬薩拉 पनीर बटर मसाला रेसिपी Paneer Butter Masala｜Introduction
-
 ![Paneer Butter Masala](images/paneer-butter-masala.png)
 
 濃郁辛香的乳酪奶油馬薩拉，料理方式和材料都是北印度特有的風格，受到旁遮普與阿富汗的影響，一路傳承改良並於 1950 左右成為今天的樣貌，以現在的名稱最初亮相於旁遮普人經營的德里餐廳 Moti Mahal 菜單上。雖然食材眾多，但作法簡單不易失敗，還可以隨著自己的口味變化調整，家家戶戶都適合烹調。

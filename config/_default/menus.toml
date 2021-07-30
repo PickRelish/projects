@@ -1,8 +1,8 @@
-[[paneer_butter_masala]]
-  name = "食譜"
-  weight = 60
-  identifier = "recipe"
-  url = "/paneer_butter_masala/recipe"
+#[[india]]
+#  name = "before_you_start"
+#  weight = 60
+#  identifier = "before_you_start"
+#  url = "/india/paneer_butter_masala/before_you_start"
 
 #[[main]]
 #  name = "乳酪奶油馬薩拉"

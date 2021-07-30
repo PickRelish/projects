@@ -1,5 +1,5 @@
 ---
-title: "Before you Start"
+title: "開始之前看一下"
 description: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
@@ -9,7 +9,7 @@ menu:
   india:
     parent: "paneer_butter_masala"
 weight: 2
-toc: true
+toc: false
 ---
 
 - 建議將食譜整體大致看過再開始
