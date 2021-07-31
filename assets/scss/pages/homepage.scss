@@ -28,6 +28,19 @@ body.dark {
       width: 100%;
     }
   }
+  .pre {
+    text-align: justify;
+    border-bottom: 1px solid $gray-300;
+    border-top: 1px solid $gray-300;
+    margin-top: 70px;
+    padding: 30px;
+    font-size: 1rem;
+    line-height: 1.76;
+
+    @include media-breakpoint-down(sm) {
+      padding: 15px;
+    }
+  }
 }
 
 .homepage-sidebar-main {
