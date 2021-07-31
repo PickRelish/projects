@@ -51,3 +51,5 @@ toc: true
 | 1 份       | 乳酪 Paneer              |
 | 15 毫升     | 鮮奶油 Fresh Cream        |
 | 200-400 克 | 米 Rice（如有加購）           |
+
+![Paneer Butter Masala package](images/package.jpg)
