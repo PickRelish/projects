@@ -1,5 +1,5 @@
 ---
-title: "Story About India Curry"
+title: "印度咖哩的故事（The Story of Indian Curry）"
 description: ""
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
