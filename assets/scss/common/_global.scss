@@ -164,6 +164,13 @@ body {
 .docs-content {
   padding-bottom: 3rem;
   order: 1;
+  p {
+    line-height: 2;
+    margin-bottom: 1.76rem;
+  }
+  ol, ul, dl {
+    margin-bottom: 1.76rem;
+  }
 }
 
 .docs-navigation {

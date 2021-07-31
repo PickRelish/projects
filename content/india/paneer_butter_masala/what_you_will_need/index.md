@@ -29,26 +29,25 @@ toc: true
 - 不鏽鋼網篩（一般孔徑 10-16 目皆可）
 
 ## 材料包裡有
-
-![Ingredient](images/ingredient.png)
-
-- 3 根：喀什米爾乾辣椒 Kashmiri Chili
-- 1 tsp：葛拉姆馬薩拉 Garam Masala
-- 1 tsp：葫蘆巴葉 Kasuri Methi
-- 6 顆：丁香 Clove
-- 3 顆：綠豆蔻 Cardamom
-- 1-2 片：月桂葉 Bay Leaf
-- 1.5 tsp：小茴香籽 Cumin Seeds
-- 1/2 tsp：薑黃粉 Tumeric Powder
-- 6 顆：黑胡椒粒 Black Pepper
-- 1 tsp：胡荽籽粉 Coriander Powder
-- 2 tbsp：新鮮芫荽 Fresh Coriander
-- 8 顆：腰果 Cashew Nut
-- 6 瓣：大蒜 Garlic
-- 1 小段：老薑 Ginger
-- 1 顆：洋蔥 Onion
-- 3 顆：番茄 Tomato
-- 20 克：薄鹽奶油 Butter
-- 1 份：乳酪 Paneer
-- 15 毫升：鮮奶油 Fresh Cream
-- 200-400 克：米 Rice（如有加購）
+| 數量        | 名稱                     |
+| --------- | ---------------------- |
+| 3 根       | 喀什米爾乾辣椒 Kashmiri Chili |
+| 1 tsp     | 葛拉姆馬薩拉 Garam Masala    |
+| 1 tsp     | 葫蘆巴葉 Kasuri Methi      |
+| 6 顆       | 丁香 Clove               |
+| 3 顆       | 綠豆蔻 Cardamom           |
+| 1-2 片     | 月桂葉 Bay Leaf           |
+| 1.5 tsp   | 小茴香籽 Cumin Seeds       |
+| 1/2 tsp   | 薑黃粉 Tumeric Powder     |
+| 6 顆       | 黑胡椒粒 Black Pepper      |
+| 1 tsp     | 胡荽籽粉 Coriander Powder  |
+| 2 tbsp    | 新鮮芫荽 Fresh Coriander   |
+| 8 顆       | 腰果 Cashew Nut          |
+| 6 瓣       | 大蒜 Garlic              |
+| 1 小段      | 老薑 Ginger              |
+| 1 顆       | 洋蔥 Onion               |
+| 3 顆       | 番茄 Tomato              |
+| 20 克      | 薄鹽奶油 Butter            |
+| 1 份       | 乳酪 Paneer              |
+| 15 毫升     | 鮮奶油 Fresh Cream        |
+| 200-400 克 | 米 Rice（如有加購）           |
