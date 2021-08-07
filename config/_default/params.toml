@@ -50,8 +50,8 @@ portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
 
 # Footer
-footer = "Copyright (c) 2021-2022 Pick Relish"
-copyRight = "Copyright (c) 2021-2022 Pick Relish"
+footer = "Copyright © 2021-2022 Pick Relish"
+copyRight = "Copyright © 2021-2022 Pick Relish"
 
 # Alert
 alert = false
