@@ -45,7 +45,7 @@ toc: true
 
 ---
 ![garlic](images/01_garlic.png)
-*中火熱油一大匙，加入大蒜爆香*
+*中火熱油一大匙，加入大蒜與薑爆香*
 
 ![spices](images/02_spices.png)
 *加入「材料 A 組」*
